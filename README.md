@@ -1,10 +1,10 @@
-<p align="center"><img src="assets/header.svg" width="960" alt="Dryxio — small tools, bigger worlds."></p>
+# Dryxio
 
-<p align="center">I build AI tools for reverse engineering and making new things with classic GTA games.</p>
+I build AI tools for reverse engineering and classic GTA modding.
 
-<p align="center"><a href="#worlds--playgrounds">Worlds &amp; playgrounds</a> &nbsp;·&nbsp; <a href="#under-the-hood">Under the hood</a> &nbsp;·&nbsp; <a href="#little-tools--experiments">Little tools</a></p>
+[GTA tools & engines](#gta-tools--engines) · [Reverse engineering](#reverse-engineering) · [Other projects](#other-projects)
 
-## Worlds & playgrounds
+## GTA tools & engines
 
 <table>
 <tr>
@@ -38,7 +38,7 @@
 
 <br>
 
-## Under the hood
+## Reverse engineering
 
 <table>
 <tr>
@@ -70,14 +70,14 @@
 
 <br>
 
-## Little tools & experiments
+## Other projects
 
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
 <h3><a href="https://github.com/Dryxio/DockDrop">DockDrop</a></h3>
 <p><a href="https://github.com/Dryxio/DockDrop/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/DockDrop?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=f7dfb3" width="150" alt="Stars for DockDrop"></a></p>
-<p>A little floating shelf that makes dragging files between Mac apps easier.</p>
+<p>A floating shelf that makes dragging files between Mac apps easier.</p>
 <p><a href="https://github.com/Dryxio/DockDrop"><img src="https://raw.githubusercontent.com/Dryxio/DockDrop/main/docs/media/built-in-retina-display.gif" width="320" alt="DockDrop floating app shelf demo on macOS"></a></p>
 </td>
 <td width="50%" valign="top" align="center">
@@ -115,7 +115,7 @@
 <br>
 
 <details>
-<summary><strong>On the side · forks</strong></summary>
+<summary><strong>Forks</strong></summary>
 
 <p><a href="https://github.com/Dryxio/mtasa-blue"><strong>mtasa-blue</strong></a><br><a href="https://github.com/Dryxio/mtasa-blue/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/mtasa-blue?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="150" alt="Stars for mtasa-blue"></a></p>
 
