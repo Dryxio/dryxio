@@ -15,7 +15,7 @@ I build AI tools for reverse engineering and classic GTA modding.
 </tr>
 <tr>
 <td width="22%" align="center" valign="middle"><a href="https://github.com/Dryxio/ariane"><img src="https://raw.githubusercontent.com/Dryxio/ariane/master/docs/ariane-complete-walkthrough.png" width="180" alt="Ariane map editor walkthrough preview"></a></td>
-<td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/ariane">ariane</a></h3><p>A modern map editor for GTA III, Vice City and San Andreas.</p></td>
+<td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/ariane">ariane</a></h3><p>A modern map editor for GTA III, Vice City and San Andreas. Includes an extension that lets AI explore your maps and turn prompts into map edits — vibe mapping.</p></td>
 <td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/ariane/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/ariane?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for ariane"></a></td>
 </tr>
 <tr>
