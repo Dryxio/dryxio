@@ -9,7 +9,7 @@ I build AI tools for reverse engineering and classic GTA modding.
 <td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/auto-re-agent/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/auto-re-agent?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for auto-re-agent"></a></td>
 </tr>
 <tr>
-<td width="22%" align="center" valign="middle">—</td>
+<td width="22%" align="center" valign="middle"><a href="https://github.com/Dryxio/ghidra-ai-bridge"><img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Framework/Gui/src/main/resources/images/GhidraIcon256.png" width="120" alt="Ghidra dragon logo"></a></td>
 <td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/ghidra-ai-bridge">ghidra-ai-bridge</a></h3><p>Let AI agents explore decompiled code, types and cross-references through a CLI and Python API.</p></td>
 <td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/ghidra-ai-bridge/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/ghidra-ai-bridge?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for ghidra-ai-bridge"></a></td>
 </tr>
@@ -19,7 +19,7 @@ I build AI tools for reverse engineering and classic GTA modding.
 <td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/ariane/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/ariane?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for ariane"></a></td>
 </tr>
 <tr>
-<td width="22%" align="center" valign="middle"><a href="https://github.com/Dryxio/mtasa-neon"><img src="https://raw.githubusercontent.com/Dryxio/mtasa-neon/master/docs/media/compare-draw-distance.jpg" width="180" alt="In-game draw distance comparison between MTA:SA and Neon"></a></td>
+<td width="22%" align="center" valign="middle"><a href="https://github.com/Dryxio/mtasa-neon"><img src="https://raw.githubusercontent.com/Dryxio/mtasa-neon/master/docs/media/neon-app-icon.png" width="120" alt="MTA Neon square Ryder logo"></a></td>
 <td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/mtasa-neon">mtasa-neon</a></h3><p>A game engine that turns GTA: San Andreas into networked multiplayer. A fork of MTA-Blue focused on native NPCs and traffic, larger worlds, improved rendering and new Lua capabilities.</p></td>
 <td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/mtasa-neon/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/mtasa-neon?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for mtasa-neon"></a></td>
 </tr>
@@ -34,17 +34,17 @@ I build AI tools for reverse engineering and classic GTA modding.
 <td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/gta-sa-traffic/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/gta-sa-traffic?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for gta-sa-traffic"></a></td>
 </tr>
 <tr>
-<td width="22%" align="center" valign="middle">—</td>
+<td width="22%" align="center" valign="middle"><a href="https://github.com/Dryxio/plugin-sdk-sa"><img src="https://i.imgur.com/xFXWiU9.png" width="180" alt="Plugin-SDK logo"></a></td>
 <td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/plugin-sdk-sa">plugin-sdk-sa</a></h3><p>A San Andreas-focused Plugin-SDK fork, expanded with reverse-engineering findings.</p></td>
 <td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/plugin-sdk-sa/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/plugin-sdk-sa?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for plugin-sdk-sa"></a></td>
 </tr>
 <tr>
-<td width="22%" align="center" valign="middle">—</td>
+<td width="22%" align="center" valign="middle"><a href="https://github.com/Dryxio/samp-source"><img src="assets/samp-logo.png" width="180" alt="San Andreas Multiplayer logo"></a></td>
 <td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/samp-source">samp-source</a></h3><p>Rebuilding SA-MP R5, one verified binary match at a time.</p></td>
 <td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/samp-source/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/samp-source?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for samp-source"></a></td>
 </tr>
 <tr>
-<td width="22%" align="center" valign="middle">—</td>
+<td width="22%" align="center" valign="middle"><a href="https://github.com/Dryxio/cleo-ai"><img src="https://avatars.githubusercontent.com/u/17107118?v=4" width="120" alt="CLEO Library organization logo"></a></td>
 <td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/cleo-ai">cleo-ai</a></h3><p>Make GTA SA scripts with AI, backed by opcode references and compiler checks.</p></td>
 <td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/cleo-ai/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/cleo-ai?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for cleo-ai"></a></td>
 </tr>
