@@ -5,12 +5,12 @@ I build AI tools for reverse engineering and classic GTA modding.
 <table>
 <tr>
 <td width="22%" align="center" valign="middle"><a href="https://youtu.be/zBQJYMKmwAs"><img src="https://i.ytimg.com/vi/zBQJYMKmwAs/hqdefault.jpg" width="180" alt="auto-re-agent original demo video thumbnail"></a></td>
-<td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/auto-re-agent">auto-re-agent</a></h3><p>Help AI turn compiled programs back into readable C/C++ code, using Ghidra to understand the original and checks to validate what it rebuilds.</p></td>
+<td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/auto-re-agent">auto-re-agent</a></h3><p>AI agents that reconstruct and validate C/C++ from binaries. Powered by Ghidra.</p></td>
 <td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/auto-re-agent/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/auto-re-agent?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for auto-re-agent"></a></td>
 </tr>
 <tr>
 <td width="22%" align="center" valign="middle"><a href="https://github.com/Dryxio/ghidra-ai-bridge"><img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Framework/Gui/src/main/resources/images/GhidraIcon256.png" width="120" alt="Ghidra dragon logo"></a></td>
-<td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/ghidra-ai-bridge">ghidra-ai-bridge</a></h3><p>Give AI a way to look inside programs: read recovered code, follow function calls and see how the pieces connect, through Ghidra.</p></td>
+<td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/ghidra-ai-bridge">ghidra-ai-bridge</a></h3><p>Let AI agents explore decompiled code, types and cross-references through a CLI and Python API.</p></td>
 <td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/ghidra-ai-bridge/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/ghidra-ai-bridge?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for ghidra-ai-bridge"></a></td>
 </tr>
 <tr>
