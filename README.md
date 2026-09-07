@@ -40,7 +40,7 @@ I build AI tools for reverse engineering and classic GTA modding.
 </tr>
 <tr>
 <td width="22%" align="center" valign="middle"><a href="https://github.com/Dryxio/samp-source"><img src="assets/samp-logo.png" width="180" alt="San Andreas Multiplayer logo"></a></td>
-<td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/samp-source">samp-source</a></h3><p>Rebuild SA-MP 0.3.7 R5 from source with AI, aiming to reproduce the original program down to the last byte. Each accepted match comes with evidence you can inspect.</p></td>
+<td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/samp-source">samp-source</a></h3><p>Recreating the original SA-MP 0.3.7 R5 binary, byte for byte.</p></td>
 <td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/samp-source/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/samp-source?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for samp-source"></a></td>
 </tr>
 <tr>
