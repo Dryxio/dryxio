@@ -48,6 +48,11 @@ I build AI tools for reverse engineering and classic GTA modding.
 <td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/cleo-ai">cleo-ai</a></h3><p>Help AI write GTA SA mods, from spawning cars to teleporting the player, with ready-to-use examples and checks to catch script mistakes before you try them in game.</p></td>
 <td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/cleo-ai/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/cleo-ai?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for cleo-ai"></a></td>
 </tr>
+<tr>
+<td width="22%" align="center" valign="middle"><a href="https://www.tiktok.com/@dryxio_gta"><img src="assets/gta-sa-textures-irl.png" width="180" alt="GTA SA Textures IRL: visiting the real market behind a San Andreas texture"></a></td>
+<td width="58%" valign="middle"><h3><a href="https://www.tiktok.com/@dryxio_gta">GTA SA Textures IRL</a></h3><p>On a mission to visit the real places behind GTA San Andreas. I track down and film the buildings, shops and streets Rockstar photographed for the game, showing what they look like more than two decades later.</p><p><sub>TikTok · Reverse Engineering · IRL</sub></p></td>
+<td width="20%" align="center" valign="middle"><p><strong>Active</strong></p><a href="https://www.tiktok.com/@dryxio_gta">Watch on TikTok ↗</a></td>
+</tr>
 </table>
 
 <details>
