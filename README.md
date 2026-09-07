@@ -5,7 +5,7 @@ I build AI tools for reverse engineering and classic GTA modding.
 <table>
 <tr>
 <td width="22%" align="center" valign="middle"><a href="https://youtu.be/zBQJYMKmwAs"><img src="https://i.ytimg.com/vi/zBQJYMKmwAs/hqdefault.jpg" width="180" alt="auto-re-agent original demo video thumbnail"></a></td>
-<td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/auto-re-agent">auto-re-agent</a></h3><p>AI agents that reconstruct and validate C/C++ from binaries. Powered by Ghidra.</p></td>
+<td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/auto-re-agent">auto-re-agent</a></h3><p>Help AI turn compiled programs back into readable C/C++ code, using Ghidra to understand the original and checks to validate what it rebuilds.</p></td>
 <td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/auto-re-agent/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/auto-re-agent?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for auto-re-agent"></a></td>
 </tr>
 <tr>
@@ -15,7 +15,7 @@ I build AI tools for reverse engineering and classic GTA modding.
 </tr>
 <tr>
 <td width="22%" align="center" valign="middle"><a href="https://github.com/Dryxio/ariane"><img src="https://raw.githubusercontent.com/Dryxio/ariane/master/docs/ariane-complete-walkthrough.png" width="180" alt="Ariane map editor walkthrough preview"></a></td>
-<td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/ariane">ariane</a></h3><p>Explore and edit the worlds of GTA III, Vice City and San Andreas. See your map in 3D and place objects where you want them.</p></td>
+<td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/ariane">ariane</a></h3><p>A modern map editor for GTA III, Vice City and San Andreas.</p></td>
 <td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/ariane/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/ariane?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for ariane"></a></td>
 </tr>
 <tr>
