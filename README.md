@@ -50,7 +50,7 @@ I build AI tools for reverse engineering and classic GTA modding.
 </tr>
 <tr>
 <td width="22%" align="center" valign="middle"><a href="https://www.tiktok.com/@dryxio_gta"><img src="assets/gta-sa-textures-irl.png" width="180" alt="GTA SA Textures IRL: visiting the real market behind a San Andreas texture"></a></td>
-<td width="58%" valign="middle"><h3><a href="https://www.tiktok.com/@dryxio_gta">GTA SA Textures IRL</a></h3><p>On a mission to visit the real places behind GTA San Andreas. I track down and film the buildings, shops and streets Rockstar photographed for the game, showing what they look like more than two decades later.</p></td>
+<td width="58%" valign="middle"><h3><a href="https://www.tiktok.com/@dryxio_gta">GTA SA Textures IRL</a></h3><p>Finding the real buildings and texture sources Rockstar photographed in the early 2000s for GTA San Andreas, then visiting them in person to film what they look like today.</p></td>
 <td width="20%" align="center" valign="middle"><p><strong>Active</strong></p><a href="https://www.tiktok.com/@dryxio_gta">Watch on TikTok ↗</a></td>
 </tr>
 </table>
