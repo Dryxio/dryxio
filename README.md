@@ -9,6 +9,11 @@ I build AI tools for reverse engineering and classic GTA modding.
 <td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/auto-re-agent/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/auto-re-agent?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for auto-re-agent"></a></td>
 </tr>
 <tr>
+<td width="22%" align="center" valign="middle">—</td>
+<td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/ghidra-ai-bridge">ghidra-ai-bridge</a></h3><p>Let AI agents explore decompiled code, types and cross-references through a CLI and Python API.</p></td>
+<td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/ghidra-ai-bridge/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/ghidra-ai-bridge?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for ghidra-ai-bridge"></a></td>
+</tr>
+<tr>
 <td width="22%" align="center" valign="middle"><a href="https://github.com/Dryxio/ariane"><img src="https://raw.githubusercontent.com/Dryxio/ariane/master/docs/ariane-complete-walkthrough.png" width="180" alt="Ariane map editor walkthrough preview"></a></td>
 <td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/ariane">ariane</a></h3><p>A modern map editor for GTA III, Vice City and San Andreas.</p></td>
 <td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/ariane/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/ariane?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for ariane"></a></td>
@@ -24,19 +29,9 @@ I build AI tools for reverse engineering and classic GTA modding.
 <td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/gta-3d-ai/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/gta-3d-ai?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for gta-3d-ai"></a></td>
 </tr>
 <tr>
-<td width="22%" align="center" valign="middle">—</td>
+<td width="22%" align="center" valign="middle"><a href="https://github.com/Dryxio/gta-sa-traffic"><img src="https://raw.githubusercontent.com/Dryxio/gta-sa-traffic/main/docs/images/perry-network.jpg" width="180" alt="Blender preview of the Perry Island traffic network with cyan road overlays"></a></td>
 <td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/gta-sa-traffic">gta-sa-traffic</a></h3><p>Author road networks with AI and Blender. Compile native San Andreas traffic nodes.<br><sub>Early alpha.</sub></p></td>
 <td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/gta-sa-traffic/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/gta-sa-traffic?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for gta-sa-traffic"></a></td>
-</tr>
-<tr>
-<td width="22%" align="center" valign="middle">—</td>
-<td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/ghidra-ai-bridge">ghidra-ai-bridge</a></h3><p>Let AI agents explore decompiled code, types and cross-references through a CLI and Python API.</p></td>
-<td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/ghidra-ai-bridge/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/ghidra-ai-bridge?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for ghidra-ai-bridge"></a></td>
-</tr>
-<tr>
-<td width="22%" align="center" valign="middle">—</td>
-<td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/samp-source">samp-source</a></h3><p>Rebuilding SA-MP R5, one verified binary match at a time.</p></td>
-<td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/samp-source/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/samp-source?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for samp-source"></a></td>
 </tr>
 <tr>
 <td width="22%" align="center" valign="middle">—</td>
@@ -45,33 +40,13 @@ I build AI tools for reverse engineering and classic GTA modding.
 </tr>
 <tr>
 <td width="22%" align="center" valign="middle">—</td>
+<td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/samp-source">samp-source</a></h3><p>Rebuilding SA-MP R5, one verified binary match at a time.</p></td>
+<td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/samp-source/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/samp-source?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for samp-source"></a></td>
+</tr>
+<tr>
+<td width="22%" align="center" valign="middle">—</td>
 <td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/cleo-ai">cleo-ai</a></h3><p>Make GTA SA scripts with AI, backed by opcode references and compiler checks.</p></td>
 <td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/cleo-ai/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/cleo-ai?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for cleo-ai"></a></td>
-</tr>
-<tr>
-<td width="22%" align="center" valign="middle">—</td>
-<td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/wiki.mtasa-neon.com">Neon wiki</a></h3><p>The documentation home for Neon, built on the MTA wiki.</p></td>
-<td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/wiki.mtasa-neon.com/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/wiki.mtasa-neon.com?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for wiki.mtasa-neon.com"></a></td>
-</tr>
-<tr>
-<td width="22%" align="center" valign="middle"><a href="https://github.com/Dryxio/DockDrop"><img src="https://raw.githubusercontent.com/Dryxio/DockDrop/main/docs/media/built-in-retina-display.gif" width="180" alt="DockDrop floating app shelf demo on macOS"></a></td>
-<td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/DockDrop">DockDrop</a></h3><p>A floating shelf that makes dragging files between Mac apps easier.</p></td>
-<td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/DockDrop/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/DockDrop?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for DockDrop"></a></td>
-</tr>
-<tr>
-<td width="22%" align="center" valign="middle">—</td>
-<td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/tamago-life">kodama</a></h3><p>A grove of pixel-art spirits for keeping an eye on your Claude Code agents.</p></td>
-<td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/tamago-life/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/tamago-life?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for tamago-life"></a></td>
-</tr>
-<tr>
-<td width="22%" align="center" valign="middle">—</td>
-<td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/openclaw-lullabully">openclaw-lullabully</a></h3><p>Bedtime reminders that get increasingly insistent until you go to sleep.</p></td>
-<td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/openclaw-lullabully/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/openclaw-lullabully?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for openclaw-lullabully"></a></td>
-</tr>
-<tr>
-<td width="22%" align="center" valign="middle">—</td>
-<td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/samp-r5-rebuild">samp-r5-rebuild</a></h3><p>An early experiment in rebuilding a functional SA-MP R5 client DLL.</p></td>
-<td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/samp-r5-rebuild/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/samp-r5-rebuild?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for samp-r5-rebuild"></a></td>
 </tr>
 </table>
 
