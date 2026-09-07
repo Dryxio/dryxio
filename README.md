@@ -45,7 +45,7 @@ I build AI tools for reverse engineering and classic GTA modding.
 </tr>
 <tr>
 <td width="22%" align="center" valign="middle"><a href="https://github.com/Dryxio/cleo-ai"><img src="https://avatars.githubusercontent.com/u/17107118?v=4" width="120" alt="CLEO Library organization logo"></a></td>
-<td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/cleo-ai">cleo-ai</a></h3><p>Help AI write GTA SA mods, from spawning cars to teleporting the player, with ready-to-use examples and checks to catch script mistakes before you try them in game.</p></td>
+<td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/cleo-ai">cleo-ai</a></h3><p>Create GTA SA mods with AI (CLEO)</p></td>
 <td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/cleo-ai/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/cleo-ai?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for cleo-ai"></a></td>
 </tr>
 <tr>
