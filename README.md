@@ -20,7 +20,7 @@ I build AI tools for reverse engineering and classic GTA modding.
 </tr>
 <tr>
 <td width="22%" align="center" valign="middle"><a href="https://github.com/Dryxio/mtasa-neon"><img src="https://raw.githubusercontent.com/Dryxio/mtasa-neon/master/docs/media/compare-draw-distance.jpg" width="180" alt="In-game draw distance comparison between MTA:SA and Neon"></a></td>
-<td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/mtasa-neon">mtasa-neon</a></h3><p>Larger worlds, native NPCs and traffic, new rendering and Lua possibilities.<br><sub>Experimental MTA:SA engine fork.</sub></p></td>
+<td width="58%" valign="middle"><h3><a href="https://github.com/Dryxio/mtasa-neon">mtasa-neon</a></h3><p>A game engine that turns GTA: San Andreas into networked multiplayer. A fork of MTA-Blue focused on native NPCs and traffic, larger worlds, improved rendering and new Lua capabilities.</p></td>
 <td width="20%" align="center" valign="middle"><a href="https://github.com/Dryxio/mtasa-neon/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/mtasa-neon?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="130" alt="Stars for mtasa-neon"></a></td>
 </tr>
 <tr>
