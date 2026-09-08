@@ -2,6 +2,8 @@
 
 I build AI tools for reverse engineering and classic GTA modding.
 
+[Join my Discord ↗](https://discord.gg/mgFRd2AzF8)
+
 ### [auto-re-agent](https://github.com/Dryxio/auto-re-agent)
 
 <p><a href="https://github.com/Dryxio/auto-re-agent/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/auto-re-agent?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for auto-re-agent"></a></p>
