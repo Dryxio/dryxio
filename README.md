@@ -4,19 +4,19 @@ I build AI tools for reverse engineering and classic GTA modding.
 
 [Join my Discord ↗](https://discord.gg/mgFRd2AzF8)
 
-### [auto-re-agent](https://github.com/Dryxio/auto-re-agent)
+### [ReAgent](https://github.com/Dryxio/auto-re-agent)
 
-<p><a href="https://github.com/Dryxio/auto-re-agent/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/auto-re-agent?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for auto-re-agent"></a></p>
+<p><a href="https://github.com/Dryxio/auto-re-agent/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/auto-re-agent?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for ReAgent"></a></p>
 
 Help AI turn compiled programs back into readable C/C++ code, using Ghidra to understand the original and checks to validate what it rebuilds.
 
-<p><a href="https://youtu.be/zBQJYMKmwAs"><img src="https://i.ytimg.com/vi/zBQJYMKmwAs/hqdefault.jpg" width="420" alt="auto-re-agent original demo video thumbnail"></a></p>
+<p><a href="https://youtu.be/zBQJYMKmwAs"><img src="https://i.ytimg.com/vi/zBQJYMKmwAs/hqdefault.jpg" width="420" alt="ReAgent original demo video thumbnail"></a></p>
 
 ---
 
-### [ghidra-ai-bridge](https://github.com/Dryxio/ghidra-ai-bridge)
+### [Ghidra Bridge](https://github.com/Dryxio/ghidra-ai-bridge)
 
-<p><a href="https://github.com/Dryxio/ghidra-ai-bridge/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/ghidra-ai-bridge?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for ghidra-ai-bridge"></a></p>
+<p><a href="https://github.com/Dryxio/ghidra-ai-bridge/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/ghidra-ai-bridge?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for Ghidra Bridge"></a></p>
 
 Let AI agents explore decompiled code, types and cross-references through a CLI and Python API.
 
@@ -24,9 +24,9 @@ Let AI agents explore decompiled code, types and cross-references through a CLI 
 
 ---
 
-### [ariane](https://github.com/Dryxio/ariane)
+### [Ariane](https://github.com/Dryxio/ariane)
 
-<p><a href="https://github.com/Dryxio/ariane/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/ariane?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for ariane"></a></p>
+<p><a href="https://github.com/Dryxio/ariane/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/ariane?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for Ariane"></a></p>
 
 A modern map editor for GTA III, Vice City and San Andreas. Includes an extension that lets AI explore your maps and turn prompts into map edits (vibe mapping).
 
@@ -44,19 +44,19 @@ A game engine that turns GTA: San Andreas into networked multiplayer. This MTA-B
 
 ---
 
-### [gta-3d-ai](https://github.com/Dryxio/gta-3d-ai)
+### [GTA Scout](https://github.com/Dryxio/gta-3d-ai)
 
-<p><a href="https://github.com/Dryxio/gta-3d-ai/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/gta-3d-ai?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for gta-3d-ai"></a></p>
+<p><a href="https://github.com/Dryxio/gta-3d-ai/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/gta-3d-ai?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for GTA Scout"></a></p>
 
 Help AI find the right GTA models and textures for what you want to build, inspect them visually and reuse them in Blender scenes.<br><sub>Early alpha · preview from the wider Blender workflow.</sub>
 
-<p><a href="https://github.com/Dryxio/gta-3d-ai"><img src="https://raw.githubusercontent.com/Dryxio/gta-3d-ai/main/docs/images/showcase/02-mariachi--02-night-kiosco.jpg" width="420" alt="Mariachi night kiosk scene from the GTA 3D AI showcase"></a></p>
+<p><a href="https://github.com/Dryxio/gta-3d-ai"><img src="https://raw.githubusercontent.com/Dryxio/gta-3d-ai/main/docs/images/showcase/02-mariachi--02-night-kiosco.jpg" width="420" alt="Mariachi night kiosk scene from the GTA Scout showcase"></a></p>
 
 ---
 
-### [gta-sa-traffic](https://github.com/Dryxio/gta-sa-traffic)
+### [GTA Flow](https://github.com/Dryxio/gta-sa-traffic)
 
-<p><a href="https://github.com/Dryxio/gta-sa-traffic/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/gta-sa-traffic?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for gta-sa-traffic"></a></p>
+<p><a href="https://github.com/Dryxio/gta-sa-traffic/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/gta-sa-traffic?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for GTA Flow"></a></p>
 
 Let AI visualize, create and edit the road nodes that tell GTA traffic where to drive. Build new networks or change existing ones in Blender, then export them for San Andreas.<br><sub>Early alpha.</sub>
 
@@ -84,11 +84,11 @@ Recreating the original SA-MP 0.3.7 R5 binary, byte for byte.
 
 ---
 
-### [cleo-ai](https://github.com/Dryxio/cleo-ai)
+### [CLEO AI](https://github.com/Dryxio/cleo-ai)
 
-<p><a href="https://github.com/Dryxio/cleo-ai/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/cleo-ai?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for cleo-ai"></a></p>
+<p><a href="https://github.com/Dryxio/cleo-ai/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/cleo-ai?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for CLEO AI"></a></p>
 
-Create GTA SA mods with AI (CLEO)
+Create GTA San Andreas mods with your AI, using CLEO.
 
 <p><a href="https://github.com/Dryxio/cleo-ai"><img src="https://avatars.githubusercontent.com/u/17107118?v=4" width="120" alt="CLEO Library organization logo"></a></p>
 
