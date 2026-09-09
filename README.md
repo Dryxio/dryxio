@@ -4,9 +4,9 @@ I build AI tools for reverse engineering and classic GTA modding.
 
 [Join my Discord ↗](https://discord.gg/mgFRd2AzF8)
 
-### [ReAgent](https://github.com/Dryxio/auto-re-agent)
+### [ReAgent](https://github.com/Dryxio/reagent)
 
-<p><a href="https://github.com/Dryxio/auto-re-agent/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/auto-re-agent?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for ReAgent"></a></p>
+<p><a href="https://github.com/Dryxio/reagent/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/reagent?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for ReAgent"></a></p>
 
 Help AI turn compiled programs back into readable C/C++ code, using Ghidra to understand the original and checks to validate what it rebuilds.
 
@@ -14,13 +14,13 @@ Help AI turn compiled programs back into readable C/C++ code, using Ghidra to un
 
 ---
 
-### [Ghidra Bridge](https://github.com/Dryxio/ghidra-ai-bridge)
+### [Ghidra Bridge](https://github.com/Dryxio/ghidra-bridge)
 
-<p><a href="https://github.com/Dryxio/ghidra-ai-bridge/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/ghidra-ai-bridge?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for Ghidra Bridge"></a></p>
+<p><a href="https://github.com/Dryxio/ghidra-bridge/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/ghidra-bridge?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for Ghidra Bridge"></a></p>
 
 Let AI agents explore decompiled code, types and cross-references through a CLI and Python API.
 
-<p><a href="https://github.com/Dryxio/ghidra-ai-bridge"><img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Framework/Gui/src/main/resources/images/GhidraIcon256.png" width="120" alt="Ghidra dragon logo"></a></p>
+<p><a href="https://github.com/Dryxio/ghidra-bridge"><img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Framework/Gui/src/main/resources/images/GhidraIcon256.png" width="120" alt="Ghidra dragon logo"></a></p>
 
 ---
 
@@ -44,23 +44,23 @@ A game engine that turns GTA: San Andreas into networked multiplayer. This MTA-B
 
 ---
 
-### [GTA Scout](https://github.com/Dryxio/gta-3d-ai)
+### [GTA Scout](https://github.com/Dryxio/gta-scout)
 
-<p><a href="https://github.com/Dryxio/gta-3d-ai/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/gta-3d-ai?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for GTA Scout"></a></p>
+<p><a href="https://github.com/Dryxio/gta-scout/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/gta-scout?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for GTA Scout"></a></p>
 
 Help AI find the right GTA models and textures for what you want to build, inspect them visually and reuse them in Blender scenes.<br><sub>Early alpha · preview from the wider Blender workflow.</sub>
 
-<p><a href="https://github.com/Dryxio/gta-3d-ai"><img src="https://raw.githubusercontent.com/Dryxio/gta-3d-ai/main/docs/images/showcase/02-mariachi--02-night-kiosco.jpg" width="420" alt="Mariachi night kiosk scene from the GTA Scout showcase"></a></p>
+<p><a href="https://github.com/Dryxio/gta-scout"><img src="https://raw.githubusercontent.com/Dryxio/gta-scout/main/docs/images/showcase/02-mariachi--02-night-kiosco.jpg" width="420" alt="Mariachi night kiosk scene from the GTA Scout showcase"></a></p>
 
 ---
 
-### [GTA Flow](https://github.com/Dryxio/gta-sa-traffic)
+### [GTA Flow](https://github.com/Dryxio/gta-flow)
 
-<p><a href="https://github.com/Dryxio/gta-sa-traffic/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/gta-sa-traffic?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for GTA Flow"></a></p>
+<p><a href="https://github.com/Dryxio/gta-flow/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/gta-flow?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for GTA Flow"></a></p>
 
 Let AI visualize, create and edit the road nodes that tell GTA traffic where to drive. Build new networks or change existing ones in Blender, then export them for San Andreas.<br><sub>Early alpha.</sub>
 
-<p><a href="https://github.com/Dryxio/gta-sa-traffic"><img src="https://raw.githubusercontent.com/Dryxio/gta-sa-traffic/main/docs/images/perry-network.jpg" width="420" alt="Blender preview of the Perry Island traffic network with cyan road overlays"></a></p>
+<p><a href="https://github.com/Dryxio/gta-flow"><img src="https://raw.githubusercontent.com/Dryxio/gta-flow/main/docs/images/perry-network.jpg" width="420" alt="Blender preview of the Perry Island traffic network with cyan road overlays"></a></p>
 
 ---
 
