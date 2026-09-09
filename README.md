@@ -34,7 +34,7 @@ A modern map editor for GTA III, Vice City and San Andreas. Includes an extensio
 
 ---
 
-### [mtasa-neon](https://github.com/Dryxio/mtasa-neon)
+### [MTA Neon](https://github.com/Dryxio/mtasa-neon)
 
 <p><a href="https://github.com/Dryxio/mtasa-neon/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/mtasa-neon?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for mtasa-neon"></a></p>
 
@@ -48,7 +48,7 @@ A game engine that turns GTA: San Andreas into networked multiplayer. This MTA-B
 
 <p><a href="https://github.com/Dryxio/gta-scout/stargazers"><img src="https://img.shields.io/github/stars/Dryxio/gta-scout?style=flat&amp;label=%E2%98%85%20stars&amp;labelColor=443653&amp;color=dcd0f4" width="140" alt="Stars for GTA Scout"></a></p>
 
-Help AI find the right GTA models and textures for what you want to build, inspect them visually and reuse them in Blender scenes.<br><sub>Early alpha · preview from the wider Blender workflow.</sub>
+Create GTA-style 3D models and scenes with your AI and Blender. Build new props, customize vehicles, and design interiors using game models, textures, and new geometry.
 
 <p><a href="https://github.com/Dryxio/gta-scout"><img src="https://raw.githubusercontent.com/Dryxio/gta-scout/main/docs/images/showcase/02-mariachi--02-night-kiosco.jpg" width="420" alt="Mariachi night kiosk scene from the GTA Scout showcase"></a></p>
 
